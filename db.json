@@ -1,0 +1,513 @@
+[
+  {
+    "_id": "5e7c5f8a685c234241e24380",
+    "index": 0,
+    "guid": "2bbd8197-2572-4a64-a749-afaee21a7193",
+    "label": "Electricity Consumption",
+    "data": -79.123522
+  },
+  {
+    "_id": "5e7c5f8a2ab2476ec8e67bce",
+    "index": 1,
+    "guid": "c5caa510-9be0-4a1a-8d6a-e41e0a7ea53a",
+    "label": "Electricity Consumption",
+    "data": 83.032188
+  },
+  {
+    "_id": "5e7c5f8a831eeb4768c440dd",
+    "index": 2,
+    "guid": "b33ecf50-567b-4212-882f-bdb933325bc5",
+    "label": "Electricity Consumption",
+    "data": 64.352852
+  },
+  {
+    "_id": "5e7c5f8a33b63d437e1e41a6",
+    "index": 3,
+    "guid": "1c712f6b-58ad-43a2-9a66-84f87dbc9ba2",
+    "label": "Electricity Consumption",
+    "data": 62.704712
+  },
+  {
+    "_id": "5e7c5f8a6cbdd0299089a099",
+    "index": 4,
+    "guid": "f91ccf4c-8282-4dbf-8a31-eec2ab45e171",
+    "label": "Electricity Consumption",
+    "data": 58.888966
+  },
+  {
+    "_id": "5e7c5f8a14f8b90b0fb81d2c",
+    "index": 5,
+    "guid": "38eafde0-e656-4047-9f2a-63d245fcfe7a",
+    "label": "Electricity Consumption",
+    "data": 17.943447
+  },
+  {
+    "_id": "5e7c5f8aa41d066194a19115",
+    "index": 6,
+    "guid": "bc8213d9-6925-4be7-8a1e-ed4641a05f91",
+    "label": "Electricity Consumption",
+    "data": -48.594639
+  },
+  {
+    "_id": "5e7c5f8a3d41f486d7f9d4bb",
+    "index": 7,
+    "guid": "6aea72cd-0630-4d0a-9b76-2ed7d0b4d921",
+    "label": "Electricity Consumption",
+    "data": 89.054141
+  },
+  {
+    "_id": "5e7c5f8a5240c27526cac81b",
+    "index": 8,
+    "guid": "c589ce6a-7914-4a5f-bc33-7212510c8e06",
+    "label": "Electricity Consumption",
+    "data": -50.987263
+  },
+  {
+    "_id": "5e7c5f8a489ed443d4e5ac86",
+    "index": 9,
+    "guid": "61682247-0564-48c9-b20f-b301f194325b",
+    "label": "Electricity Consumption",
+    "data": -3.894191
+  },
+  {
+    "_id": "5e7c5f8adef0ca99db602a3e",
+    "index": 10,
+    "guid": "f6a30398-caa6-4d0a-b7ee-5776f7e61396",
+    "label": "Electricity Consumption",
+    "data": 88.051194
+  },
+  {
+    "_id": "5e7c5f8a4e5d9e574e0bb298",
+    "index": 11,
+    "guid": "c5064c31-4f52-44c7-936e-50950a1b0df5",
+    "label": "Electricity Consumption",
+    "data": -1.057738
+  },
+  {
+    "_id": "5e7c5f8a94a113bee6962df8",
+    "index": 12,
+    "guid": "136229af-ee69-4c5a-a5ab-135bfb449e1b",
+    "label": "Electricity Consumption",
+    "data": 26.107507
+  },
+  {
+    "_id": "5e7c5f8abd91c801db5460e2",
+    "index": 13,
+    "guid": "e317e80d-2544-4ff2-87d2-95fecd38d5cf",
+    "label": "Electricity Consumption",
+    "data": 30.93159
+  },
+  {
+    "_id": "5e7c5f8a29dfd444c1df967d",
+    "index": 14,
+    "guid": "36af9229-f1c6-4040-b792-91ab6a2c18d5",
+    "label": "Electricity Consumption",
+    "data": 66.816451
+  },
+  {
+    "_id": "5e7c5f8a90d9d195d31a791c",
+    "index": 15,
+    "guid": "ae7404e7-603c-4143-9e77-db03c6f1242c",
+    "label": "Electricity Consumption",
+    "data": -14.775034
+  },
+  {
+    "_id": "5e7c5f8a160c27528f4c7129",
+    "index": 16,
+    "guid": "d660feb0-09b0-4592-ad3c-589bf20054bf",
+    "label": "Electricity Consumption",
+    "data": 31.853547
+  },
+  {
+    "_id": "5e7c5f8a5d5bfddc0cada9a1",
+    "index": 17,
+    "guid": "6cc7a347-c7ef-4c4f-aa96-871d9dfb72cf",
+    "label": "Electricity Consumption",
+    "data": 13.474681
+  },
+  {
+    "_id": "5e7c5f8a1da58edd096eac7d",
+    "index": 18,
+    "guid": "84a21d79-92b3-428d-b399-ce5241e9c622",
+    "label": "Electricity Consumption",
+    "data": -12.457115
+  },
+  {
+    "_id": "5e7c5f8a7ac200a33b47117b",
+    "index": 19,
+    "guid": "21f74dc1-36f9-400a-a80a-201cef488c14",
+    "label": "Electricity Consumption",
+    "data": -31.624833
+  },
+  {
+    "_id": "5e7c5f8aaf8232508c38a77b",
+    "index": 20,
+    "guid": "2417d4f3-81c9-44dc-bcf6-0d8c9eefcd6c",
+    "label": "Electricity Consumption",
+    "data": 52.490689
+  },
+  {
+    "_id": "5e7c5f8a74c84e5a46447a1f",
+    "index": 21,
+    "guid": "d0df915d-be3f-4e39-b271-30eae739f7d6",
+    "label": "Electricity Consumption",
+    "data": -87.572566
+  },
+  {
+    "_id": "5e7c5f8a88fb4e0cf97eff3c",
+    "index": 22,
+    "guid": "7b64e276-b1d0-448e-9875-12df70308664",
+    "label": "Electricity Consumption",
+    "data": -65.198451
+  },
+  {
+    "_id": "5e7c5f8aae3b7bb1082cefa7",
+    "index": 23,
+    "guid": "cb8f77af-0ff8-4f28-b4de-681f30e519b4",
+    "label": "Electricity Consumption",
+    "data": -0.215897
+  },
+  {
+    "_id": "5e7c5f8afef08d2af1476f3c",
+    "index": 24,
+    "guid": "b1525d00-dec2-4d37-9e1a-77af65fe0e7a",
+    "label": "Electricity Consumption",
+    "data": -3.923908
+  },
+  {
+    "_id": "5e7c5f8a5ac86cad23765ead",
+    "index": 25,
+    "guid": "32f042ae-64ac-4fb3-931b-982464b7bdd2",
+    "label": "Electricity Consumption",
+    "data": 68.571984
+  },
+  {
+    "_id": "5e7c5f8ad7ff2e4448e74bd1",
+    "index": 26,
+    "guid": "6c547425-ef1d-4d42-bf23-ef697d058c7c",
+    "label": "Electricity Consumption",
+    "data": -1.590555
+  },
+  {
+    "_id": "5e7c5f8aabb4ac5a4344eadf",
+    "index": 27,
+    "guid": "342a6a61-60be-40cb-b0e0-a3d974f696a4",
+    "label": "Electricity Consumption",
+    "data": 80.386064
+  },
+  {
+    "_id": "5e7c5f8a6369687cb731589c",
+    "index": 28,
+    "guid": "0b2602c2-dee0-4cbc-975d-d9a2128d8804",
+    "label": "Electricity Consumption",
+    "data": -88.136332
+  },
+  {
+    "_id": "5e7c5f8a953303c12221ef0c",
+    "index": 29,
+    "guid": "6a0fb316-e34c-491b-94f9-ca3f84b687e5",
+    "label": "Electricity Consumption",
+    "data": 0.625817
+  },
+  {
+    "_id": "5e7c5f8a7a0cd3074236566b",
+    "index": 30,
+    "guid": "d3d10e21-e07c-4d5b-8bd0-b1c1a631731b",
+    "label": "Electricity Consumption",
+    "data": -28.38833
+  },
+  {
+    "_id": "5e7c5f8a0f50480aff7b5e24",
+    "index": 31,
+    "guid": "c1502624-f3e4-477a-93d1-d73309338151",
+    "label": "Electricity Consumption",
+    "data": -20.040906
+  },
+  {
+    "_id": "5e7c5f8aa09058622dcd314a",
+    "index": 32,
+    "guid": "43e6e616-937d-457d-8ebe-6a5c6407ef29",
+    "label": "Electricity Consumption",
+    "data": 11.98995
+  },
+  {
+    "_id": "5e7c5f8a84496b9d272c7f1c",
+    "index": 33,
+    "guid": "a01608eb-f7af-434b-9724-5856bae0aa58",
+    "label": "Electricity Consumption",
+    "data": -87.673586
+  },
+  {
+    "_id": "5e7c5f8acca74f88b1b1b926",
+    "index": 34,
+    "guid": "2962e89f-d979-4585-871e-1c18250a8c34",
+    "label": "Electricity Consumption",
+    "data": -1.343636
+  },
+  {
+    "_id": "5e7c5f8af02c02a4f7d9df95",
+    "index": 35,
+    "guid": "7705f870-bd54-44dd-baa9-e6e833e61d59",
+    "label": "Electricity Consumption",
+    "data": 51.940185
+  },
+  {
+    "_id": "5e7c5f8a5178f482d149e8f3",
+    "index": 36,
+    "guid": "35a66a22-1dca-4bc4-afd6-d7b4ac604796",
+    "label": "Electricity Consumption",
+    "data": -41.418765
+  },
+  {
+    "_id": "5e7c5f8acf87901418c804d8",
+    "index": 37,
+    "guid": "f210ab23-2616-4734-b7a4-5d0f720ae323",
+    "label": "Electricity Consumption",
+    "data": -76.392876
+  },
+  {
+    "_id": "5e7c5f8a9a83d4102ac38b69",
+    "index": 38,
+    "guid": "147f9212-2280-48a8-af42-3c91383b55f8",
+    "label": "Electricity Consumption",
+    "data": 61.775322
+  },
+  {
+    "_id": "5e7c5f8ab0248960eb874217",
+    "index": 39,
+    "guid": "2c151941-4768-4436-bd38-cbd267c22471",
+    "label": "Electricity Consumption",
+    "data": -73.925276
+  },
+  {
+    "_id": "5e7c5f8a4168c609ae2787e4",
+    "index": 40,
+    "guid": "0959c9f6-e39a-4757-b58e-f8e54e3d82d5",
+    "label": "Electricity Consumption",
+    "data": -51.102075
+  },
+  {
+    "_id": "5e7c5f8a02a4d6ab2f917c9d",
+    "index": 41,
+    "guid": "3bb4270f-4eb5-4ed8-b3da-3c5917fd4b4b",
+    "label": "Electricity Consumption",
+    "data": -82.787242
+  },
+  {
+    "_id": "5e7c5f8abeade5126ddafa8b",
+    "index": 42,
+    "guid": "49cdc462-a6e3-406e-8fac-a0954719dc1e",
+    "label": "Electricity Consumption",
+    "data": 5.200277
+  },
+  {
+    "_id": "5e7c5f8add926d21e8cbc9b4",
+    "index": 43,
+    "guid": "3918165d-70bd-4eec-b1b1-04ba634c6d66",
+    "label": "Electricity Consumption",
+    "data": -18.592464
+  },
+  {
+    "_id": "5e7c5f8a336629280726aef2",
+    "index": 44,
+    "guid": "41897d7a-7d3c-4031-84b0-07009475c0d4",
+    "label": "Electricity Consumption",
+    "data": 28.85832
+  },
+  {
+    "_id": "5e7c5f8a9a2d875d216a9de4",
+    "index": 45,
+    "guid": "7154667f-5fe3-48ae-a4a0-849a5e3c0995",
+    "label": "Electricity Consumption",
+    "data": -10.619001
+  },
+  {
+    "_id": "5e7c5f8ad37306cd3cbdb930",
+    "index": 46,
+    "guid": "60456b96-8ada-4aae-9a7f-c01b471f2dbc",
+    "label": "Electricity Consumption",
+    "data": -1.293962
+  },
+  {
+    "_id": "5e7c5f8a6ffa774db5fa80c5",
+    "index": 47,
+    "guid": "84b95433-803d-4280-9968-484a62dea3d8",
+    "label": "Electricity Consumption",
+    "data": -73.214496
+  },
+  {
+    "_id": "5e7c5f8a5a1f63e4a6dabcd2",
+    "index": 48,
+    "guid": "47534f1d-7ff0-4df4-aed5-e83054f043c7",
+    "label": "Electricity Consumption",
+    "data": 33.625933
+  },
+  {
+    "_id": "5e7c5f8a69af5cfe9a917875",
+    "index": 49,
+    "guid": "135f7c8a-1e0f-4f34-a83b-25f8607e8403",
+    "label": "Electricity Consumption",
+    "data": 11.671013
+  },
+  {
+    "_id": "5e7c5f8a20f4094aa287c29d",
+    "index": 50,
+    "guid": "4b2a5bde-50ea-4412-bcc4-eb53f17c13bc",
+    "label": "Electricity Consumption",
+    "data": 55.12971
+  },
+  {
+    "_id": "5e7c5f8aa5c20372b0b570fa",
+    "index": 51,
+    "guid": "307ff9a3-2d0f-4ca9-894c-d099f9430843",
+    "label": "Electricity Consumption",
+    "data": -86.338712
+  },
+  {
+    "_id": "5e7c5f8a432af00b9018794e",
+    "index": 52,
+    "guid": "8903ac8b-9a68-40bb-b29e-0b9d950738a8",
+    "label": "Electricity Consumption",
+    "data": 34.218176
+  },
+  {
+    "_id": "5e7c5f8ae2ade2eaaa141ccf",
+    "index": 53,
+    "guid": "74fbb224-7ba0-41ed-9519-8c470a623d8e",
+    "label": "Electricity Consumption",
+    "data": 12.192291
+  },
+  {
+    "_id": "5e7c5f8a3c1744870731b606",
+    "index": 54,
+    "guid": "f9e7c8ee-2e29-4b73-9fbe-cb41b86deb54",
+    "label": "Electricity Consumption",
+    "data": 51.755559
+  },
+  {
+    "_id": "5e7c5f8a9a097997653bb728",
+    "index": 55,
+    "guid": "0dbd25ea-ec4a-4fad-abef-9d9992cd8973",
+    "label": "Electricity Consumption",
+    "data": 2.554102
+  },
+  {
+    "_id": "5e7c5f8a6fd4d7cb08e25654",
+    "index": 56,
+    "guid": "ad522609-f210-470a-8646-3491345c96d2",
+    "label": "Electricity Consumption",
+    "data": -50.891296
+  },
+  {
+    "_id": "5e7c5f8aa14085014725c85c",
+    "index": 57,
+    "guid": "75739fc8-b66b-4ecf-b5d0-dffbb624569c",
+    "label": "Electricity Consumption",
+    "data": -76.906867
+  },
+  {
+    "_id": "5e7c5f8a7ee6ebccbee72a65",
+    "index": 58,
+    "guid": "3bf81969-83a5-4650-aad3-933a1354a63e",
+    "label": "Electricity Consumption",
+    "data": 41.646432
+  },
+  {
+    "_id": "5e7c5f8aa8e938f52662e8e1",
+    "index": 59,
+    "guid": "b5e2490b-9e80-4461-8ad4-4c19739f208f",
+    "label": "Electricity Consumption",
+    "data": -77.107042
+  },
+  {
+    "_id": "5e7c5f8af1855c30c3509db2",
+    "index": 60,
+    "guid": "062c5f7c-d317-4fab-bba4-ac8418c368b0",
+    "label": "Electricity Consumption",
+    "data": 82.467999
+  },
+  {
+    "_id": "5e7c5f8a1dfe50e7f350ef19",
+    "index": 61,
+    "guid": "185fe121-48a0-4856-8f57-7d6adb350da2",
+    "label": "Electricity Consumption",
+    "data": 17.285186
+  },
+  {
+    "_id": "5e7c5f8a0612a535b9b95c4f",
+    "index": 62,
+    "guid": "fcb0fb3e-4616-4f01-9f07-c34b3ade30a4",
+    "label": "Electricity Consumption",
+    "data": 61.256316
+  },
+  {
+    "_id": "5e7c5f8aeab11d3da42d144f",
+    "index": 63,
+    "guid": "a235ccec-c2d2-4bb3-8163-371113cac0d6",
+    "label": "Electricity Consumption",
+    "data": -17.834998
+  },
+  {
+    "_id": "5e7c5f8ae24bbd8ca22ec330",
+    "index": 64,
+    "guid": "eedfc632-773d-48f0-be7b-d60ff6816c33",
+    "label": "Electricity Consumption",
+    "data": 88.730672
+  },
+  {
+    "_id": "5e7c5f8a5fcb033979e1fb2a",
+    "index": 65,
+    "guid": "66fd394c-a59a-48cf-83b5-0981bfdccacb",
+    "label": "Electricity Consumption",
+    "data": -23.452418
+  },
+  {
+    "_id": "5e7c5f8adacf634ded2a5110",
+    "index": 66,
+    "guid": "ec3a9ef0-8bc6-4f3d-9701-3f250b2402cb",
+    "label": "Electricity Consumption",
+    "data": 84.867594
+  },
+  {
+    "_id": "5e7c5f8a9175957856dfbbfc",
+    "index": 67,
+    "guid": "0bde6dfc-de1b-4d2b-9a27-4c49bbbfc52f",
+    "label": "Electricity Consumption",
+    "data": -42.125025
+  },
+  {
+    "_id": "5e7c5f8ac5c331b9c52c553b",
+    "index": 68,
+    "guid": "1cbaf5f7-0d86-4344-a69b-17d22e79f264",
+    "label": "Electricity Consumption",
+    "data": -82.486036
+  },
+  {
+    "_id": "5e7c5f8acdf76fcee17740a1",
+    "index": 69,
+    "guid": "f1be3999-ed9a-443a-b637-0b1a85b7c39a",
+    "label": "Electricity Consumption",
+    "data": 60.596657
+  },
+  {
+    "_id": "5e7c5f8abe8e4a5c03e73ed0",
+    "index": 70,
+    "guid": "6dd98958-b384-4b5c-8ece-7c27250bf091",
+    "label": "Electricity Consumption",
+    "data": -42.091655
+  },
+  {
+    "_id": "5e7c5f8a53e80c305dc4a629",
+    "index": 71,
+    "guid": "9ecf91d9-9b36-4f0b-9821-22b1076ac3df",
+    "label": "Electricity Consumption",
+    "data": -27.321208
+  },
+  {
+    "_id": "5e7c5f8a1f639948c3468578",
+    "index": 72,
+    "guid": "14c70ff4-1af9-4044-98f4-1ed8d0870d22",
+    "label": "Electricity Consumption",
+    "data": 1.350513
+  }
+]
